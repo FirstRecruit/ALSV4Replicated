@@ -1,4 +1,4 @@
-# ALS V4 Replicated UE 5.2.1
+# ALS V4 Replicated - UE 5.2.1
 
 This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
 
